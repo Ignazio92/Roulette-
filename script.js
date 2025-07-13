@@ -1,37 +1,36 @@
 
 const actions = [
-  (Coppia) - Penetrazione da dietro sul divano con la testa sul cuscino e i glutei ben sollevati. [Durata max: 10 min]
-(Coppia) - Sesso orale completo, fino all'orgasmo, senza mani. [Durata max: 10 min]
-(Coppia) - Penetrazione vaginale con gamba alzata e appoggiata al muro. [Durata max: 7 min]
-(Coppia) - Inserisci le mutandine del/della partner in vagina o ano, poi stimola con le dita. [Durata max: 5 min]
-(Coppia) - Fisting vaginale profondo, lubrificato, con baci e carezze. [Durata max: 10 min]
-(Coppia) - Penetrazione anale lenta e continua sul lavandino del bagno. [Durata max: 8 min]
-(Coppia) - Usa verdura pulita (zucchina/carota) per penetrazione vaginale o anale. [Durata max: 8 min]
-(Coppia) - Cavalcata inversa con movimenti decisi, mani libere. [Durata max: 7 min]
-(Coppia) - A 90° sopra il tavolo, vieni preso/a da dietro, mani ferme. [Durata max: 6 min]
-(Coppia) - Penetrazione in doccia, schiena al muro, ritmo profondo. [Durata max: 9 min]
-(Coppia) - Massaggio erotico che termina con penetrazione anale o doppia stimolazione. [Durata max: 10 min]
-(Coppia) - Penetrazione sul pavimento nudi, sfruttando la superficie fredda. [Durata max: 6 min]
-(Coppia) - Due dita in vagina/ano mentre stimoli il clitoride con la lingua. [Durata max: 7 min]
-(Coppia) - Penetrazione con partner seduto/a sul bordo di una sedia. [Durata max: 8 min]
-(Coppia) - Posizione a ranocchia: sopra, gambe aperte, sguardo fisso. [Durata max: 6 min]
-(Coppia) - Alterna 5 spinte vaginali, 5 anali, per 3 minuti consecutivi. [Durata max: 3 min]
-(Coppia) - Ti siedi sul volto dell'altro e ricevi stimoli orali e manuali. [Durata max: 6 min]
-(Coppia) - Posizione carriola: mani a terra, penetrazione da dietro. [Durata max: 4 min]
-(Coppia) - Ghiaccio in bocca + sesso orale con gioco di temperatura. [Durata max: 6 min]
-(Coppia) - Penetrazione guardandosi nello specchio. Solo sguardi. [Durata max: 8 min]
-(In 3) - Uno penetra da dietro mentre l'altro/a stimola oralmente davanti. [Durata max: 10 min]
-(In 3) - Penetrazione doppia alternata: vaginale e anale (reale o dildo). [Durata max: 8 min]
-(In 3) - Uno si fa stimolare oralmente, l'altro bacia e tocca tutto il corpo. [Durata max: 6 min]
-(In 3) - Penetrazione in fila: uno entra, poi l'altro prende il posto. [Durata max: 8 min]
-(In 3) - Gioco con verdure: uno penetra, l'altro osserva e poi si scambiano. [Durata max: 7 min]
-(Coppia) - Cammina lentamente per 3 stanze con il pene inserito nella vagina. [Durata max: 4 min]
-(Coppia) - Pissing erotico nella doccia, seguito da penetrazione. [Durata max: 6 min]
-(Coppia) - Pissing in un bicchiere, l'altro lo beve o lo tocca con le labbra. [Durata max: 4 min]
-(In 3) - Penetrazione mentre uno urina sugli altri due (in doccia). [Durata max: 7 min]
-(In 3) - Uno penetra, l'altro tiene le gambe e guida con comandi vocali. [Durata max: 6 min]
-  
-];
+  "(Coppia) - Penetrazione da dietro sul divano con la testa sul cuscino e i glutei ben sollevati. [Durata max: 10 min]",
+  "(Coppia) - Sesso orale completo, fino all'orgasmo, senza mani. [Durata max: 10 min]",
+  "(Coppia) - Penetrazione vaginale con gamba alzata e appoggiata al muro. [Durata max: 7 min]",
+  "(Coppia) - Masturbazione reciproca guardandosi negli occhi. [Durata max: 5 min]",
+  "(Coppia) - Sesso in piedi contro la parete, sussurrandosi fantasie proibite. [Durata max: 7 min]",
+  "(Coppia) - Lei si masturba mentre lui guarda e guida con la voce. [Durata max: 5 min]",
+  "(Coppia) - Penetrazione laterale con baci sul collo e orecchio. [Durata max: 8 min]",
+  "(Coppia) - Stimolazione con sex toy scelto dal partner. [Durata max: 7 min]",
+  "(Coppia) - Lui le bacia tutto il corpo, ma non le parti intime. [Durata max: 5 min]",
+  "(Coppia) - Lei cavalca lui lentamente, guardandolo negli occhi. [Durata max: 10 min]",
+  "(Coppia) - Sesso orale a 69. [Durata max: 7 min]",
+  "(Coppia) - Penetrazione con entrambi bendati. [Durata max: 8 min]",
+  "(Coppia) - Lui le lecca l’interno coscia fino a farla impazzire. [Durata max: 5 min]",
+  "(Coppia) - Lei si fa legare mani e piedi. Lui decide il ritmo. [Durata max: 10 min]",
+  "(Coppia) - Doccia insieme con massaggio erotico. [Durata max: 7 min]",
+  "(Coppia) - Lei si inginocchia e guarda verso l’alto mentre lo prende in bocca. [Durata max: 5 min]",
+  "(Coppia) - Massaggio con olio profumato e finale a sorpresa. [Durata max: 10 min]",
+  "(Coppia) - Penetrazione sul tavolo con vestiti addosso. [Durata max: 7 min]",
+  "(Coppia) - Lei si masturba sopra di lui senza farlo entrare. [Durata max: 5 min]",
+  "(Coppia) - Lui la prende forte e veloce mentre le afferra i capelli. [Durata max: 5 min]",
+  "(Coppia) - Lei succhia solo la punta, lentamente. [Durata max: 4 min]",
+  "(Coppia) - Posizione missionario con parole dolci e sguardi intensi. [Durata max: 10 min]",
+  "(Coppia) - Lei sopra ma con polsi legati. Lui guida i movimenti. [Durata max: 6 min]",
+  "(Coppia) - Lui le sussurra oscenità mentre la penetra da dietro. [Durata max: 8 min]",
+  "(Coppia) - Scambio di baci profondi e preliminari lenti. [Durata max: 6 min]",
+  "(Coppia) - Lei si spoglia lentamente davanti a lui, toccandosi. [Durata max: 5 min]",
+  "(Coppia) - Penetrazione da dietro con specchio davanti. [Durata max: 8 min]",
+  "(Coppia) - Lei lo masturba usando solo i piedi. [Durata max: 4 min]",
+  "(Coppia) - Lui la prende mentre lei sta su una sedia, gambe aperte. [Durata max: 6 min]",
+  "(Coppia) - Entrambi nudi, si accarezzano solo con la punta delle dita. [Durata max: 5 min]"
+]; 
 
 const wheel = document.getElementById("wheel");
 const result = document.getElementById("result");
