@@ -54,7 +54,6 @@ function spin() {
   const deg = 360 * 5 + Math.floor(Math.random() * 360);
   wheel.style.transition = "transform 4s ease-out";
   wheel.style.transform = `rotate(${deg}deg)`;
-  sound.play();
   setTimeout(() => {
     const actualDeg = deg % 360;
     const index = Math.floor((360 - actualDeg) / (360 / total)) % total;
@@ -75,6 +74,7 @@ function startTimer() {
     if (seconds === 0) {
       clearInterval(countdown);
       result.innerText = "⏰ Tempo scaduto!";
+      sound.play();
     }
   }, 1000);
 }
