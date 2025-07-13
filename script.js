@@ -1,35 +1,36 @@
 
 const actions = [
-  "Spoglia lentamente il partner (2 min)",
-  "Bacia ogni parte del corpo (3 min)",
-  "Usa solo le mani per dare piacere (4 min)",
-  "Legare mani o piedi e stimolare (5 min)",
-  "Sussurra fantasie all'orecchio (2 min)",
-  "Cammina con pene dentro la vagina (2 min)",
-  "Leccare lentamente il corpo intero (4 min)",
-  "Fisting con lubrificante (max 5 min)",
-  "Usare verdure nel gioco (3 min)",
-  "Indossare mutande in vagina/ano (3 min)",
-  "Tre in contemporanea su una persona (5 min)",
-  "Lecchini alternati da 2 persone (4 min)",
-  "Fare l'amore davanti allo specchio (3 min)",
-  "Penetrazione in piedi contro muro (4 min)",
-  "Lato anale sul tavolo della cucina (3 min)",
-  "Pissing in doccia (2 min)",
-  "Bere urina da bicchiere (1 min)",
-  "Guardarsi a lungo senza toccarsi (2 min)",
-  "Rapporto orale in ginocchio (3 min)",
-  "Accarezzare con ghiaccio (2 min)",
-  "Sesso in bagno con porta aperta (4 min)",
-  "Penetrazione su sedia (3 min)",
-  "Giro lingua e penetrazione (3 min)",
-  "Cambio ruolo: dominante/sottomesso (2 min)",
-  "Parlare sporco durante l'atto (3 min)",
-  "Stimolare con sex toy (4 min)",
-  "Leccare piedi e poi penetrare (3 min)",
-  "Penetrazione doppia (massimo 5 min)",
-  "Masturbazione incrociata (3 min)",
-  "Gioco di ruolo 'estranei' (5 min)"
+  (Coppia) - Penetrazione da dietro sul divano con la testa sul cuscino e i glutei ben sollevati. [Durata max: 10 min]
+(Coppia) - Sesso orale completo, fino all'orgasmo, senza mani. [Durata max: 10 min]
+(Coppia) - Penetrazione vaginale con gamba alzata e appoggiata al muro. [Durata max: 7 min]
+(Coppia) - Inserisci le mutandine del/della partner in vagina o ano, poi stimola con le dita. [Durata max: 5 min]
+(Coppia) - Fisting vaginale profondo, lubrificato, con baci e carezze. [Durata max: 10 min]
+(Coppia) - Penetrazione anale lenta e continua sul lavandino del bagno. [Durata max: 8 min]
+(Coppia) - Usa verdura pulita (zucchina/carota) per penetrazione vaginale o anale. [Durata max: 8 min]
+(Coppia) - Cavalcata inversa con movimenti decisi, mani libere. [Durata max: 7 min]
+(Coppia) - A 90° sopra il tavolo, vieni preso/a da dietro, mani ferme. [Durata max: 6 min]
+(Coppia) - Penetrazione in doccia, schiena al muro, ritmo profondo. [Durata max: 9 min]
+(Coppia) - Massaggio erotico che termina con penetrazione anale o doppia stimolazione. [Durata max: 10 min]
+(Coppia) - Penetrazione sul pavimento nudi, sfruttando la superficie fredda. [Durata max: 6 min]
+(Coppia) - Due dita in vagina/ano mentre stimoli il clitoride con la lingua. [Durata max: 7 min]
+(Coppia) - Penetrazione con partner seduto/a sul bordo di una sedia. [Durata max: 8 min]
+(Coppia) - Posizione a ranocchia: sopra, gambe aperte, sguardo fisso. [Durata max: 6 min]
+(Coppia) - Alterna 5 spinte vaginali, 5 anali, per 3 minuti consecutivi. [Durata max: 3 min]
+(Coppia) - Ti siedi sul volto dell'altro e ricevi stimoli orali e manuali. [Durata max: 6 min]
+(Coppia) - Posizione carriola: mani a terra, penetrazione da dietro. [Durata max: 4 min]
+(Coppia) - Ghiaccio in bocca + sesso orale con gioco di temperatura. [Durata max: 6 min]
+(Coppia) - Penetrazione guardandosi nello specchio. Solo sguardi. [Durata max: 8 min]
+(In 3) - Uno penetra da dietro mentre l'altro/a stimola oralmente davanti. [Durata max: 10 min]
+(In 3) - Penetrazione doppia alternata: vaginale e anale (reale o dildo). [Durata max: 8 min]
+(In 3) - Uno si fa stimolare oralmente, l'altro bacia e tocca tutto il corpo. [Durata max: 6 min]
+(In 3) - Penetrazione in fila: uno entra, poi l'altro prende il posto. [Durata max: 8 min]
+(In 3) - Gioco con verdure: uno penetra, l'altro osserva e poi si scambiano. [Durata max: 7 min]
+(Coppia) - Cammina lentamente per 3 stanze con il pene inserito nella vagina. [Durata max: 4 min]
+(Coppia) - Pissing erotico nella doccia, seguito da penetrazione. [Durata max: 6 min]
+(Coppia) - Pissing in un bicchiere, l'altro lo beve o lo tocca con le labbra. [Durata max: 4 min]
+(In 3) - Penetrazione mentre uno urina sugli altri due (in doccia). [Durata max: 7 min]
+(In 3) - Uno penetra, l'altro tiene le gambe e guida con comandi vocali. [Durata max: 6 min]
+  
 ];
 
 const wheel = document.getElementById("wheel");
