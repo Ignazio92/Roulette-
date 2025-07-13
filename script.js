@@ -3,7 +3,7 @@ const actions =[
 (Coppia) - Penetrazione da dietro sul divano con la testa sul cuscino e i glutei ben sollevati. [Durata max: 10 min],
 (Coppia) - Sesso orale completo, fino all'orgasmo, senza mani. [Durata max: 10 min],
 (Coppia) - Penetrazione vaginale con gamba alzata e appoggiata al muro. [Durata max: 7 min],
-(Coppia) - Inserisci le mutandine del/della partner in vagina o ano, poi stimola con le dita. [Durata max: 5 min],
+(Coppia) - Inserisci le mutandine del/della partner vagina o ano, poi stimola con le dita. [Durata max: 5 min],
 (Coppia) - Fisting vaginale profondo, lubrificato, con baci e carezze. [Durata max: 10 min],
 (Coppia) - Penetrazione anale lenta e continua sul lavandino del bagno. [Durata max: 8 min],
 (Coppia) - Usa verdura pulita (zucchina/carota) per penetrazione vaginale o anale. [Durata max: 8 min],
@@ -28,7 +28,7 @@ const actions =[
 (Coppia) - Cammina lentamente per 3 stanze con il pene inserito nella vagina. [Durata max: 4 min],
 (Coppia) - Pissing erotico nella doccia, seguito da penetrazione. [Durata max: 6 min],
 (Coppia) - Pissing  un bicchiere, l'altro lo beve o lo tocca con le labbra. [Durata max: 4 min],
-(In 3) - Penetrazione mentre uno urina sugli altri due (in doccia). [Durata max: 7 min],
+(In 3) - Penetrazione mentre uno urina sugli altri due ( doccia). [Durata max: 7 min],
 (In 3) - Uno penetra, l'altro tiene le gambe e guida con comandi vocali. [Durata max: 6 min],
   ]; 
 
